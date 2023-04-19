@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "814056830801",
+    "project_id": "chatapplication-20ff9",
+    "storage_bucket": "chatapplication-20ff9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814056830801:android:eb785e979de9a4c96cc570",
+        "android_client_info": {
+          "package_name": "com.example.real_timr_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814056830801-c9c13piijjcoccosbni0ouhvblvo03nf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.real_timr_app",
+            "certificate_hash": "1c11ab61d61a730902bb3c0f0330de0afdb6198f"
+          }
+        },
+        {
+          "client_id": "814056830801-38ldgdpobhscc00v01sa1tao4smkkqdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGuMZ5toBDrjaqqjRflT0MIhKJ4TeB4sA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814056830801-38ldgdpobhscc00v01sa1tao4smkkqdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
